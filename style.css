@@ -1,0 +1,26 @@
+h1 {
+    color: darkslateblue;
+}
+
+p, ul{
+    color:indianred;
+}
+
+html{
+    background-color: blanchedalmond;
+
+}
+
+body{
+  width: 700px;
+  margin: 0 auto;
+  background-color: powderblue;
+  padding: 20px 20px 20px 20px;
+
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+
+}
